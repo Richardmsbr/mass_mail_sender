@@ -1,4 +1,4 @@
-#E-mails em Massa
+E-mails em Massa
 
 Um script Python para enviar e-mails em massa usando SMTP.
 
